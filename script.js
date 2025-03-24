@@ -1,3 +1,4 @@
+//
 function toCase(text) {
   if (text === "") {
     return "-";
